@@ -8,6 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 
 # Directorio donde se guardan otros documentos, presentaciones y notebooks
 references/
